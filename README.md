@@ -3,15 +3,18 @@
 Este repositório contém meus primeiros exercícios de programação em Python,
 feitos no Google Colab como parte da minha jornada para entrar na área de TI.
 
-## Conteúdo
-- Exercícios básicos: tabuada, par ou ímpar, calculadora
+## 📂 Organização
+- Pasta `exercicios/` → pequenos treinos e códigos básicos (tabuada, par ou ímpar, calculadora, listas).
+- Pasta `projetos/` → programas mais completos e práticos (jogo da adivinhação, lista de tarefas interativa, etc.).
+
+## 📚 Conteúdo
+- Print de mensagens
+- Variáveis
+- Operações matemáticas
+- Condicionais
 - Estruturas de repetição (for, while)
-- Condicionais (if/else)
 - Listas e dicionários
+- Funções
 
-## Organização
-- Pasta `exercicios`: pequenos treinos
-- Pasta `projetos`: programas mais completos
-
-## Autor
-Cristiano Souza 
+## 👨‍💻 Autor
+Cristiano Souza (Oxygen)
