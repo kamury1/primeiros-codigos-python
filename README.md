@@ -4,11 +4,14 @@ Este repositório contém meus primeiros exercícios de programação em Python,
 feitos no Google Colab como parte da minha jornada para entrar na área de TI.
 
 ## Conteúdo
-- Print de Menssagens
-- Variáveis
-- Operações matemáticas
-- Condicionais
-- Listas
+- Exercícios básicos: tabuada, par ou ímpar, calculadora
+- Estruturas de repetição (for, while)
+- Condicionais (if/else)
+- Listas e dicionários
 
-  ## Autor
-  Cristiano Souza
+## Organização
+- Pasta `exercicios`: pequenos treinos
+- Pasta `projetos`: programas mais completos
+
+## Autor
+Cristiano Souza 
