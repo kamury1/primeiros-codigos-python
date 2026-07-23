@@ -17,4 +17,4 @@ feitos no Google Colab como parte da minha jornada para entrar na área de TI.
 - Funções
 
 ## 👨‍💻 Autor
-Cristiano Souza (Oxygen)
+Cristiano Souza
